@@ -1,0 +1,7 @@
+Questions:
+- What exactly does Flatten do?
+- Why is it different to Flatten, then add a dense layer compared to Dense layer, then Flatten?
+
+- What are the options for Conv2D layers?  How do I specify a kernel?  Multiple Kernels?  How does the activation affect this?
+
+- 

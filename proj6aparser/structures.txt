@@ -1,0 +1,41 @@
+N V
+
+N V Det N
+  -------
+    VP
+    
+      
+N V Det N P N
+    ---------
+NP V   NP
+   ------
+      VP
+     
+N V P Det Adj N Conj N V
+    -----------
+         
+
+Det N V Det Adj N
+
+
+N V P N
+
+
+N Adv V Det N Conj N V P Det N Adv
+
+
+N V Adv Conj V Det N
+
+
+
+N V Det Adj N P N Conj V N P Det Adj N
+    ---------   
+       NP     P NP
+       -----------
+N V          NP   Conj VP
+
+N V Det Adj Adj Adj N P Det N P Det N
+    -----------------   -----   -----
+          NP             NP      NP
+
+GOOD: 1, 2, 3, 4, 5, 6,  7, 8, 9, 10
