@@ -22,10 +22,6 @@ AI's Turn
 AI chose to take 1 from pile 2.
 ```
 
-## Video
-
-[![Project 4b: Nim Video](http://img.youtube.com/vi/nX1jO0mjpJY/0.jpg)](https://youtu.be/nX1jO0mjpJY)
-
 ## Background
 
 Recall that in the game Nim, we begin with some number of piles, each with some number of objects. Players take turns: on a player’s turn, the player removes any non-negative number of objects from any one non-empty pile. Whoever removes the last object loses.

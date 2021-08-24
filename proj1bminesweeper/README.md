@@ -2,10 +2,6 @@
 
 Write an AI to play Minesweeper.
 
-## Video
-
-[![Project 1b: Minesweeper Video](http://img.youtube.com/vi/Asz3K-h0HEw/0.jpg)](https://youtu.be/Asz3K-h0HEw)
-
 ## Specification
 
 Complete the implementations of the `Sentence` class and the `MinesweeperAI` class in `minesweeper.py`.

@@ -16,10 +16,6 @@ Query: How do neurons connect in a neural network?
 Neurons of one layer connect only to neurons of the immediately preceding and immediately following layers.
 ```
 
-## Video
-
-[![Project 6b: Questions Video](http://img.youtube.com/vi/kv9RDo-eDzo/0.jpg)](https://youtu.be/kv9RDo-eDzo)
-
 ## Background
 
 Question Answering (QA) is a field within natural language processing focused on designing systems that can answer questions. Among the more famous question answering systems is Watson, the IBM computer that competed (and won) on Jeopardy!. A question answering system of Watson’s accuracy requires enormous complexity and vast amounts of data, but in this problem, we’ll design a very simple question answering system based on inverse document frequency.
